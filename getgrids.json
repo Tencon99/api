@@ -2,29 +2,29 @@
 	"status":0,
 "grids":[
 	{
-    id: 1,
-    src: "../../assets/新闻资讯.png",
-    title: "新闻资讯"
+    "id": 1,
+    "src": "../../assets/新闻资讯.png",
+    "title": "新闻资讯"
   },
   {
-    id: 2,
-    src: "../../assets/图文分享.png",
-    title: "图文分享"
+    "id": 2,
+    "src": "../../assets/图文分享.png",
+    "title": "图文分享"
   },
   {
-    id: 3,
-    src: "../../assets/商品展示.png",
-    title: "商品展示"
+    "id": 3,
+    "src": "../../assets/商品展示.png",
+    "title": "商品展示"
   },
   {
-    id: 4,
-    src: "../../assets/资讯.png",
-    title: "资讯"
+    "id": 4,
+    "src": "../../assets/资讯.png",
+    "title": "资讯"
   },
   {
-    id: 5,
-    src: "../../assets/联系我们.png",
-    title: "联系我们"
+    "id": 5,
+    "src": "../../assets/联系我们.png",
+    "title": "联系我们"
   }
   ]
 }
