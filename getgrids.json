@@ -23,6 +23,41 @@
   },
   {
     "id": 5,
+    "src": "./static/留言反馈.png",
+    "title": "留言反馈"
+  },
+	  {
+    "id": 6,
+    "src": "./static/联系我们.png",
+    "title": "联系我们"
+  },
+  {
+    "id": 7,
+    "src": "./static/资讯.png",
+    "title": "资讯"
+  },
+  {
+    "id": 8,
+    "src": "./static/留言反馈.png",
+    "title": "留言反馈"
+  },
+	  {
+    "id": 9,
+    "src": "./static/联系我们.png",
+    "title": "联系我们"
+  },
+  {
+    "id": 10,
+    "src": "./static/资讯.png",
+    "title": "资讯"
+  },
+  {
+    "id": 11,
+    "src": "./static/留言反馈.png",
+    "title": "留言反馈"
+  },
+	  {
+    "id": 12,
     "src": "./static/联系我们.png",
     "title": "联系我们"
   }
