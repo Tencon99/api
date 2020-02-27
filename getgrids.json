@@ -3,7 +3,7 @@
 "grids":[
 	{
     "id": 1,
-    "src": "../../assets/新闻资讯.png",
+    "src": "./static/新闻资讯.png",
     "title": "新闻资讯"
   },
   {
