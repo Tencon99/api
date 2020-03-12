@@ -15,7 +15,7 @@
     "title": "图文分享",
     "router":{
     	"name":"photos.list",
-	"params":{categroyId:0}
+	"params":{"categroyId":0}
     }
   },
   {
