@@ -1,0 +1,80 @@
+{
+  "status": 0,
+  "message": [
+    {
+      "id": 1,
+      "title": "人物图片",
+      "categroy_url": "/tupian/renwutupian.html"
+    },
+    {
+      "id": 2,
+      "title": "抽象图片",
+      "categroy_url": "/tupian/chouxiangtupian.html"
+    },
+    {
+      "id": 3,
+      "title": "风景图片",
+      "categroy_url": "/tupian/fengjing.html"
+    },
+    {
+      "id": 4,
+      "title": "花草图片",
+      "categroy_url": "/tupian/huacaotupian.html"
+    },
+    {
+      "id": 5,
+      "title": "动物图片",
+      "categroy_url": "/tupian/dongwutupian.html"
+    },
+    {
+      "id": 6,
+      "title": "美食图片",
+      "categroy_url": "/tupian/meishitupian.html"
+    },
+    {
+      "id": 7,
+      "title": "其他图片",
+      "categroy_url": "/tupian/qitatupian.html"
+    },
+    {
+      "id": 8,
+      "title": "民族艺术",
+      "categroy_url": "/tupian/minzuyishutupian.html"
+    },
+    {
+      "id": 9,
+      "title": "生活用品",
+      "categroy_url": "/tupian/shenghuoyongpintupian.html"
+    },
+    {
+      "id": 10,
+      "title": "建筑图片",
+      "categroy_url": "/tupian/jianzhutupian.html"
+    },
+    {
+      "id": 11,
+      "title": "装修图片",
+      "categroy_url": "/tupian/zhuangxiutupian.html"
+    },
+    {
+      "id": 12,
+      "title": "体育图片",
+      "categroy_url": "/tupian/tiyutupian.html"
+    },
+    {
+      "id": 13,
+      "title": "科技交通",
+      "categroy_url": "/tupian/kejijiaotongtupian.html"
+    },
+    {
+      "id": 14,
+      "title": "太空科学",
+      "categroy_url": "/tupian/taikongkexuetupian.html"
+    },
+    {
+      "id": 15,
+      "title": "水资源",
+      "categroy_url": "/tupian/shuiziyuantupian.html"
+    }
+  ]
+}
