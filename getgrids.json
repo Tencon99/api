@@ -14,7 +14,8 @@
     "src": "./static/图文分享.png",
     "title": "图文分享",
     "router":{
-    	"name":"photos.list"
+    	"name":"photos.list",
+	"params":{categroyId:0}
     }
   },
   {
